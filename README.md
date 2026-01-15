@@ -10,4 +10,4 @@ echo 'hola mundo'
 ## Notas
 Pueden hacer lo que quieran...
 
-### Esto es una prueba 3
+### Esto es una prueba
